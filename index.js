@@ -14,7 +14,7 @@ const questions = [
   {
     type: "input",
     name: "title",
-    message: "Enter the title of your project:",
+    message: "What is the name of your project ?",
 
     validate: (your_Input) => {
       if (your_Input) {
