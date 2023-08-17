@@ -130,5 +130,5 @@ dist
 .pnp.*
 
 # Node_module 
-.node_modules/
-.DS_Store/
+.node_modules
+.DS_Store
